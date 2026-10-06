@@ -1,6 +1,6 @@
 # Hi, I'm Srujana 👋
 
-### Computer Science Undergraduate | Full-Stack Developer | AI Enthusiast
+### Computer Science Undergraduate | Software Developer | Full-Stack & AI Enthusiast
 
 I'm a 4th-year Computer Science Engineering student at Mahatma Gandhi Institute of Technology (MGIT), Hyderabad, with a CGPA of **9.23**. I enjoy building scalable web applications, AI-powered solutions, and solving real-world problems through technology.
 
@@ -8,24 +8,28 @@ I'm a 4th-year Computer Science Engineering student at Mahatma Gandhi Institute 
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE Student at MGIT, Hyderabad
+* 🎓 B.Tech Computer Science Engineering student at MGIT, Hyderabad | 9.23 CGPA
+* 💻 Software Developer experienced in building full-stack web applications and REST APIs
 * 🏆 Grand Finalist – Smart India Hackathon (SIH) 2025
-* 💻 Full-Stack Developer with experience in React, FastAPI, Node.js, MongoDB, and Supabase
-* 🤖 Passionate about AI, Machine Learning, and Data-Driven Applications
-* 📚 Actively solving Data Structures & Algorithms problems on LeetCode
-* 🏆 Regular participant in LeetCode Weekly Contests and CodeChef Contests
-* 🌱 Currently exploring Cloud Technologies, AI, and Open Source Contributions
-
+* 🧑‍💻 Strong foundation in Java, Python, C, SQL, DSA, OOP, DBMS, and Operating Systems
+* 🌐 Experienced with React, FastAPI, Flask, Node.js, Express.js, and modern web technologies
+* 🗄️ Worked with MySQL, MongoDB, PostgreSQL, and Supabase
+* 🤖 Interested in AI, Machine Learning, and data-driven applications
+* 📚 Actively practicing Data Structures & Algorithms on LeetCode
+* 🌱 Currently exploring cloud technologies, software engineering, and AI
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+### Core Computer Science
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-333333?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-333333?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-333333?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-333333?style=for-the-badge)
 
 ### Frontend
 
@@ -35,11 +39,20 @@ I'm a 4th-year Computer Science Engineering student at Mahatma Gandhi Institute 
 
 ### Backend & Databases
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Libraries & Data
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ### Tools
 
@@ -81,6 +94,7 @@ I'm a 4th-year Computer Science Engineering student at Mahatma Gandhi Institute 
 
 ### 🤖 ReplyWise AI – AI-Powered Email Reply Assistant
 
+* [GitHub Repository](https://github.com/Srujana-Elukurthi/REPLYWISE-AI)
 * Built a full-stack AI email assistant using React, Node.js, Express.js, Prisma, and TiDB Cloud
 * Implemented context-aware email reply generation with customizable tone, length, and language
 * Developed REST APIs with JWT authentication, bcrypt password hashing, and email OTP verification
@@ -90,6 +104,7 @@ I'm a 4th-year Computer Science Engineering student at Mahatma Gandhi Institute 
 
 ### 🔹 PM-AJAY Connection – One Nation, One Dashboard
 
+* [GitHub Repository](https://github.com/Srujana-Elukurthi/pm-ajay)
 * Developed a centralized dashboard for tracking government schemes
 * Applied data analytics and visualization techniques
 * Selected as a Grand Finalist project in Smart India Hackathon 2025
@@ -112,6 +127,16 @@ I'm a 4th-year Computer Science Engineering student at Mahatma Gandhi Institute 
 
 ---
 
+---
+
+## 📜 Certifications
+
+* Salesforce Developer Virtual Internship – SmartBridge (2025)
+* Cisco – JavaScript Essentials & Networking Fundamentals
+* NPTEL – Data Science (Elite)
+* Infosys Wingspan – Probability Distribution using Python
+
+  
 ## 🏆 Achievements
 
 * 🥇 Grand Finalist – Smart India Hackathon (SIH) 2025
