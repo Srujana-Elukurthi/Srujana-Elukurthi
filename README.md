@@ -2,7 +2,7 @@
 
 ### Computer Science Undergraduate | Full-Stack Developer | AI Enthusiast
 
-I'm a 3rd-year Computer Science Engineering student at Mahatma Gandhi Institute of Technology (MGIT), Hyderabad, with a CGPA of **9.22**. I enjoy building scalable web applications, AI-powered solutions, and solving real-world problems through technology.
+I'm a 4th-year Computer Science Engineering student at Mahatma Gandhi Institute of Technology (MGIT), Hyderabad, with a CGPA of **9.23**. I enjoy building scalable web applications, AI-powered solutions, and solving real-world problems through technology.
 
 ---
 
@@ -69,6 +69,24 @@ I'm a 3rd-year Computer Science Engineering student at Mahatma Gandhi Institute 
 * Implemented resume analysis and skill-gap detection
 * Generated personalized study plans and placement-readiness insights
 * Developed REST APIs and integrated responsive frontend
+
+### 🔐 SChat – ECC P-256 End-to-End Encrypted Messaging System
+
+* [GitHub Repository](https://github.com/Srujana-Elukurthi/ECC-CHAT)
+* Built a secure real-time messaging application using React, Vite, Firebase, and Web Crypto API
+* Implemented end-to-end encryption using ECC P-256 (ECDH) and AES-256-GCM
+* Integrated Firebase Authentication, Firestore, email OTP verification, and real-time messaging
+* Implemented read receipts, typing indicators, message search, and secure public/private key management
+* Deployed the application using Firebase Hosting
+
+### 🤖 ReplyWise AI – AI-Powered Email Reply Assistant
+
+* Built a full-stack AI email assistant using React, Node.js, Express.js, Prisma, and TiDB Cloud
+* Implemented context-aware email reply generation with customizable tone, length, and language
+* Developed REST APIs with JWT authentication, bcrypt password hashing, and email OTP verification
+* Integrated OpenRouter API while keeping API keys securely on the server side
+* Used Prisma with TiDB Cloud (MySQL) for persistent data storage
+* Deployed the frontend on Firebase Hosting and backend on Render
 
 ### 🔹 PM-AJAY Connection – One Nation, One Dashboard
 
