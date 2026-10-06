@@ -77,7 +77,7 @@ I'm a 4th-year Computer Science Engineering student at Mahatma Gandhi Institute 
 ## 🌟 Featured Projects
 
 ### 🔹 PLACEXA – AI-Powered Career Intelligence & Placement Readiness Agent
-
+* [GitHub Repository](https://github.com/Srujana-Elukurthi/Ai-Career-Dashboard)
 * Built using Python, FastAPI, React, Supabase, and AI techniques
 * Implemented resume analysis and skill-gap detection
 * Generated personalized study plans and placement-readiness insights
